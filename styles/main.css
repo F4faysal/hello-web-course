@@ -1,5 +1,6 @@
-.costom-bg {
-  /* background-image: src= "/images/cover/cover-1.png"; */
-  background-color: aqua;
-  width: 100%;
+.color-costom {
+  background: #f4fafd;
+}
+.bg-Register-Now {
+  background-color: #289bde;
 }
