@@ -4,7 +4,9 @@
 .bg-Register-Now {
   background-color: #289bde;
 }
-
+.gold {
+  color: gold;
+}
 footer {
   height: 400px;
 }
